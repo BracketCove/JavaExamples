@@ -1,5 +1,3 @@
-package testablecode;
-
 import bracketcove.testablecode.task.Continuation;
 import bracketcove.testablecode.task.ITaskStorage;
 import bracketcove.testablecode.task.Task;

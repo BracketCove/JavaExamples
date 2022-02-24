@@ -1,5 +1,3 @@
-package testablecode;
-
 import bracketcove.testablecode.task.IManageTaskContract;
 import bracketcove.testablecode.task.Task;
 

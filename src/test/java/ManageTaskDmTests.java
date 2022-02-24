@@ -1,5 +1,3 @@
-package testablecode;
-
 import bracketcove.testablecode.task.ManageTaskDecisionMaker;
 import bracketcove.testablecode.task.ManageTaskEvent;
 import org.junit.jupiter.api.BeforeEach;

@@ -3,7 +3,6 @@ package bracketcove.testablecode;
 import java.util.regex.Pattern;
 
 public class Validator {
-
     /*
     RegEx is short for regular expression. It is simply a way that we can examine a string, and determine what kind
     of characters are contained within it. The regex below matches against:

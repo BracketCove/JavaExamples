@@ -1,5 +1,3 @@
-package testablecode;
-
 import bracketcove.testablecode.task.IManageTaskContract;
 
 class FakeView implements IManageTaskContract.View {

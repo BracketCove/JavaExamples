@@ -3,8 +3,6 @@ package bracketcove.testablecode.task;
 public class Task {
     private final int taskId;
     private final String taskName;
-
-    //these things need to be translated into Resource Ids
     private final String taskIcon;
     private final String taskColor;
 
@@ -18,15 +16,12 @@ public class Task {
     public int getTaskId() {
         return taskId;
     }
-
     public String getTaskName() {
         return taskName;
     }
-
     public String getTaskIcon() {
         return taskIcon;
     }
-
     public String getTaskColor() {
         return taskColor;
     }
